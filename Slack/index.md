@@ -7,9 +7,6 @@ date        : 09/01/2015
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-url:
-    lib: ../libraries
-    assets: ../assets
 widgets     : []            # {mathjax, quiz, bootstrap}
 license     : by-nc-sa
 mode        : standalone # {standalone, draft}
@@ -22,7 +19,7 @@ knit        : slidify::knit2slides
    </style>
 ## What is Slack?
 
-> ![Slack](assets/img/slack_logo.jpg)
+> ![Slack](img/slack_logo.jpg)
 
 > - [Slack](slack.com) is a team communication tool
   
